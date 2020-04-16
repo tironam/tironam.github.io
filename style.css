@@ -36,7 +36,7 @@
   /*border-style: solid;
   border-width: 8px;
   border-color: darkblue;
-  */border-radius: 50px;
+  */border-radius: 400px;
 }
 
 h2 {
@@ -55,6 +55,7 @@ body {
   background-color: rgba(87, 87, 87, 0.514);
   border-radius: 10px;
   padding: 8px;
+  top: 20px;
 }
 
 .divs {
