@@ -1,0 +1,54 @@
+#banner {
+  color: darkblue;
+  font-size: 55px;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+#pic {
+  display: block;
+  margin: auto;
+  border-style: solid;
+  border-width: 8px;
+  border-color: darkblue;
+  border-radius: 5px;
+}
+
+h2 {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightcyan;
+}
+
+#aboutMe {
+  height: 265px;
+  width: 400px;
+  margin: 5px auto 5px auto;
+  background-color: rgba(87, 87, 87, 0.514);
+  border-radius: 10px;
+  padding: 8px;
+}
+
+.divs {
+  height: 200px;
+  width: 300px;
+  background-color: rgba(87, 87, 87, 0.514);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+  display: block;
+}
+
+#contact {
+  width: 100px;
+  height: 30px;
+  background-color: darkgray;
+  margin: auto;
+  border-radius: 5px;
+  padding-top: 7px;
+  text-align: center;
+}
